@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.Form1.resources
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\bin\Debug\netcoreapp3.1\DemoApplication.exe
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\bin\Debug\netcoreapp3.1\DemoApplication.deps.json
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\bin\Debug\netcoreapp3.1\DemoApplication.runtimeconfig.json
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\bin\Debug\netcoreapp3.1\DemoApplication.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\bin\Debug\netcoreapp3.1\DemoApplication.dll
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\bin\Debug\netcoreapp3.1\DemoApplication.pdb
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.dll
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.pdb
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.genruntimeconfig.cache
+C:\Users\Admin\source\repos\LoginWindowsFormsApp\DemoApplication\DemoApplication\obj\Debug\netcoreapp3.1\DemoApplication.Properties.Resources.resources
